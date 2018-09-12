@@ -110,7 +110,7 @@ public class StormStatServer {
 						}
 					}
 				} else {
-					System.out.println("The date entered was in an invalid format.");
+					System.out.println("The date entered was in an invalid format. The format is YYYY-MM-DD.");
 					System.out.println();
 				}
 			} else if (option.equalsIgnoreCase("L")) {
