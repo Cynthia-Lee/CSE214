@@ -1,5 +1,5 @@
 # CSE214
-CSE214 Spring 2018 Homework
+CSE214 Homework, Spring 2018
 
 Also with homework extra credit assignments such as adapting it to an Android App:
 
